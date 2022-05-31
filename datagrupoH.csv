@@ -1,0 +1,50 @@
+﻿AP. PATERNO,AP. MATERNO,NOMBRE,EDAD,SEXO,EST. CIVIL,#HIJOS,PESO (Kg),ALTURA
+Benítez,Rojas,Juan,23,masculino,viudo,VERDADERO,91,1.57
+Quispe ,Romero,Sara,32,femenino,soltero,FALSO,58,1.81
+Flores,Reyes,Lucero,57,femenino,casado,VERDADERO,95,1.72
+Sánchez ,Martinez,Karmen,50,femenino,soltero,VERDADERO,90,1.57
+García ,Cruz,Lucia,37,femenino,casado,VERDADERO,69,1.75
+Rodríguez ,Ramos,Lucas,46,masculino,viudo,FALSO,70,1.63
+Huamán ,Perez,Sofía,45,femenino,viudo,FALSO,93,1.56
+Rojas ,Gonzales,Jose,35,masculino,casado,FALSO,64,1.74
+Vásquez ,Mandini,Jorge,31,masculino,viudo,FALSO,93,1.62
+Mamani,Vargas,Alexis,45,masculino,casado,VERDADERO,81,1.74
+López ,Rios,Martina,51,femenino,casado,VERDADERO,101,1.62
+Ramos,Soto,Julia,24,femenino,divorciado,VERDADERO,87,1.69
+Pérez ,Muñoz,Valeria,34,masculino,casado,FALSO,61,1.67
+Torres ,Nuñez,Emma,42,femenino,soltero,FALSO,71,1.62
+Díaz ,Medina,Victor,59,masculino,divorciado,FALSO,91,1.65
+Gonzales ,Peña,César,20,masculino,soltero,FALSO,74,1.71
+Ramírez ,Campos,Jerson,24,masculino,divorciado,VERDADERO,93,1.58
+Mendoza ,Calderon,Paula,57,femenino,divorciado,VERDADERO,99,1.65
+Chávez ,Jimenez,Aurora,26,femenino,divorciado,VERDADERO,70,1.84
+Espinoza ,Espinoza,Fátima,59,masculino,casado,FALSO,65,1.75
+Castillo ,Vera,Tatiana,40,masculino,casado,FALSO,86,1.77
+Fernández ,Jara,Carolina,38,femenino,soltero,VERDADERO,95,1.68
+Vargas ,Cueva,Pedro,54,masculino,casado,VERDADERO,102,1.6
+Gutiérrez ,Tello,Elia,60,femenino,divorciado,FALSO,60,1.69
+Cruz ,Rosales,Angel,49,masculino,casado,FALSO,100,1.8
+Ruiz ,Paucar,David,47,masculino,divorciado,FALSO,76,1.76
+De la Cruz,Luna,Cristina,37,femenino,soltero,VERDADERO,56,1.6
+Romero ,Acosta,Diana,33,femenino,casado,VERDADERO,77,1.75
+Gómez ,Bravo,Yasmin,52,femenino,casado,VERDADERO,60,1.74
+Silva ,Lozano,Helena,18,femenino,viudo,VERDADERO,77,1.81
+Córdova ,Choque,Natalia,43,femenino,soltero,FALSO,100,1.78
+Condori ,Peralda,Edwin,23,masculino,soltero,FALSO,76,1.63
+Catro ,Alfaro,Arlet,24,femenino,viudo,VERDADERO,94,1.83
+Martínez ,Correa,Julieta,21,femenino,viudo,VERDADERO,87,1.75
+Reyes ,Alva,Lina,27,femenino,casado,FALSO,60,1.84
+Rivera ,Farfan,Marco,58,masculino,divorciado,VERDADERO,89,1.67
+Salazar ,Poma,Cloe,35,femenino,soltero,FALSO,59,1.77
+Medina ,Julca,Oscar,18,masculino,divorciado,VERDADERO,97,1.66
+Aguilar ,Avila,Diego,51,masculino,soltero,VERDADERO,56,1.69
+Paredes ,Ortega,Jhon,49,masculino,viudo,VERDADERO,91,1.59
+Cabellos,Chinchay,Piero,22,masculino,divorciado,VERDADERO,69,1.61
+Ramos,Estrada,Daniel,45,masculino,divorciado,VERDADERO,87,1.74
+Leon,Becerra,Elio,29,masculino,divorciado,VERDADERO,69,1.68
+Espinoza ,Laura,Elsa,24,femenino,viudo,VERDADERO,65,1.6
+Aguilar,Marin,Antonio,39,masculino,divorciado,VERDADERO,60,1.64
+Trujillo,Sosa,Eduardo,44,masculino,divorciado,VERDADERO,59,1.7
+Alejo,Zegarra,Steven,22,masculino,divorciado,VERDADERO,56,1.71
+Vela,Rivas,Luna,33,femenino,soltero,VERDADERO,60,1.84
+Chinchay,Valencia,Andrea,33,femenino,casado,VERDADERO,105,1.76
